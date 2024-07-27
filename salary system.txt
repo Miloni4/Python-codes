@@ -1,0 +1,27 @@
+User Input 
+---------------
+Employee ID  = J0012
+Employee Name = Joy
+Month = 4
+year = 2024
+Leaves = 7
+Conveyance Allowance = 2%
+Medical Allowance = 8%
+Other Allowances = 5%
+Salary Basic = 67000/-
+Professional Tax = 8%
+----------------
+Paid Days = 23 Days (Leave Days - Month Days)
+Basic Salary = 67000/- 
+Total Working Days = 30 (Month Days) 
+Leaves Amount =  15633/-  ( [(Month/Total Working Days]*Leave Days) - Total Working Days)
+Conveyance Allowance = 33600/-  (Yearly Salary*Conveyance Allowance/100)
+Medical Allowance =  67200/- (Yearly Salary*Medical Allowance/100)
+Other Allowances = 20160/- (Yearly Salary*Other Allowances/100)
+CTC = /- 924600/- ((Monthly Salary *12)+Conveyance Allowance+Medical Allowance+Other Allowances)
+Total Allowance = 120600/- (Conveyance Allowance+Medical Allowance+Other Allowances)
+Professional Tax = 4109/-  (Basic Salary - leave amount ) - (Total Salary*Professional Tax/100)
+Total Deductions =  19742/- (Professional Tax + Leaves Amount )
+Total Earnings Allowance  Monthly Salary  = 77050/- (Conveyance Allowance+Medical Allowance+Other Allowances+Basic Salary)
+Net Salary   = 47257/- (Total Earnings Allowance  Monthly + Basic Salary - Salary ) - Total Deductions
+Month = 	March/2024 	
